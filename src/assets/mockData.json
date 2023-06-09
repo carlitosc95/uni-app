@@ -1,0 +1,126 @@
+[
+  {
+    "country": "United States",
+    "alpha_two_code": "US",
+    "name": "Marywood University",
+    "state-province": null,
+    "domains": [
+      "marywood.edu"
+    ],
+    "web_pages": [
+      "http://www.marywood.edu"
+    ]
+  },
+  {
+    "country": "United States",
+    "alpha_two_code": "US",
+    "name": "Lindenwood University",
+    "state-province": null,
+    "domains": [
+      "lindenwood.edu"
+    ],
+    "web_pages": [
+      "http://www.lindenwood.edu/"
+    ]
+  },
+  {
+    "name": "Universidad Técnica Federico Santa María",
+    "domains": [
+      "usm.cl"
+    ],
+    "web_pages": [
+      "https://usm.cl"
+    ],
+    "country": "Chile",
+    "alpha_two_code": "CL",
+    "state-province": null
+  },
+  {
+    "name": "IÉSEG School of Management",
+    "domains": [
+      "ieseg.fr"
+    ],
+    "web_pages": [
+      "https://ieseg.fr"
+    ],
+    "country": "France",
+    "alpha_two_code": "FR",
+    "state-province": null
+  },
+  {
+    "name": "Sun Yat-Sen University",
+    "domains": [
+      "mail2.sysu.edu.cn",
+      "mail.sysu.edu.cn"
+    ],
+    "web_pages": [
+      "https://sysu.edu.cn"
+    ],
+    "country": "China",
+    "alpha_two_code": "CN",
+    "state-province": null
+  },
+  {
+    "name": "Royal Holloway University of London",
+    "domains": [
+      "rhul.ac.uk"
+    ],
+    "web_pages": [
+      "https://rhul.ac.uk"
+    ],
+    "country": "United Kingdom",
+    "alpha_two_code": "GB",
+    "state-province": null
+  },
+  {
+    "name": "Hunan University",
+    "domains": [
+      "hnu.edu.cn",
+      "www-en.hnu.edu.cn"
+    ],
+    "web_pages": [
+      "https://www.hnu.edu.cn",
+      "http://www-en.hnu.edu.cn"
+    ],
+    "country": "China",
+    "alpha_two_code": "CN",
+    "state-province": null
+  },
+  {
+    "name": "University of Portsmouth",
+    "domains": [
+      "myport.ac.uk",
+      "myport.port.ac.uk"
+    ],
+    "web_pages": [
+      "https://myport.port.ac.uk"
+    ],
+    "country": "United Kingdom",
+    "alpha_two_code": "GB",
+    "state-province": null
+  },
+  {
+    "web_pages": [
+      "https://www.ac-paris.fr/"
+    ],
+    "name": "Académie de Paris",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "ac-paris.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.ac-aix-marseille.fr/"
+    ],
+    "name": "Académie d'Aix-Marseille",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "ac-aix-marseille.fr"
+    ],
+    "country": "France"
+  }
+]
