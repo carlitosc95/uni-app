@@ -26,5 +26,4 @@ The universities section displays the search results. It shows the number of rec
 
 ### Record Size
 
-
 You can select the number of records to be displayed per page using the "Size" dropdown. The available options are 5, 10, and 20.
