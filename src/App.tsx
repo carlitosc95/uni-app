@@ -2,7 +2,7 @@ import { useState } from "react";
 import { QueryData, UniversityData } from "./types";
 import "./App.css";
 import TableContent from "./components/TableContent";
-import QueryContainer from "./components/Query";
+import QueryContainer from "./components/QueryContainer";
 import QueryInput from "./components/QueryInput";
 import { useQuery } from "@tanstack/react-query";
 import NavBar from "./components/NavBar";
