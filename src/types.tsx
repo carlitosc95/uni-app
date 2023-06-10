@@ -7,7 +7,6 @@ interface UniversityData {
 
 interface ListProps {
   items: UniversityData[];
-  selected: Number;
 }
 interface QueryData {
   uni_name: string;

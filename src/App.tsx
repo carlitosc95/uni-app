@@ -17,7 +17,7 @@ function App() {
     country: "",
     limit: 5,
   });
-
+ 
   const { isLoading, isError, data, refetch, isPaused, fetchStatus } =
     useQuery({
       queryKey: [queryData.country, queryData.uni_name, queryData.limit],
@@ -88,7 +88,7 @@ function App() {
         </h5>
 
         <div>
-          {!isLoading && <TableContent items={data} selected={undefined} />}
+          {!isLoading && <TableContent items={data} />}
         </div>
       </section>
 
@@ -109,6 +109,7 @@ function App() {
           <option>20</option>
         </select>
       </section>
+      
     </div>
   );
 }
